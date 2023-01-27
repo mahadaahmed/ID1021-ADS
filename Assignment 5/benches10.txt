@@ -1,0 +1,45 @@
+Max		From			To			timeToFind(ms)		Time(min)
+200		Malmö			Göteborg		0				153
+300		Göteborg		Stockholm		25				211
+300		Malmö			Stockholm		10				273
+400		Stockholm		Sundsvall		269				327	
+600		Stockholm		Umeå			558636			517
+600		Göteborg		Sundsvall		436585			515
+200		Sundvall		Umeå			0				190
+800		Umeå			Göteborg		27				705
+800		Göteborg		Umeå			come bruh			705
+
+
+
+
+
+
+Max		From			To			timeToFind(ms)		Time(min)
+200		Malmö			Göteborg		0				153
+300		Göteborg		Stockholm		25				211
+300		Malmö			Stockholm		0				273
+400		Stockholm		Sundsvall		3				327	
+600		Stockholm		Umeå			20				517
+600		Göteborg		Sundsvall		4				515
+200		Sundvall		Umeå			0				190
+800		Umeå			Göteborg		1				705
+800		Göteborg		Umeå			48				705
+
+
+
+
+
+
+
+
+
+Max		From			To			timeToFind(ms)		Time(min)
+200		Malmö			Göteborg		0				153
+300		Göteborg		Stockholm		25				211
+300		Malmö			Stockholm		0				273
+400		Stockholm		Sundsvall		2				327	
+600		Stockholm		Umeå			12				517
+600		Göteborg		Sundsvall		5				515
+200		Sundvall		Umeå			0				190
+800		Umeå			Göteborg		1				705
+800		Göteborg		Umeå			50				705

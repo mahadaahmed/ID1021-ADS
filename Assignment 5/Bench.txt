@@ -1,0 +1,67 @@
+Growing size of listA, B fixed (append to B)
+
+n 		t ns
+
+100		244
+
+200		377
+
+400		662
+
+800		1268
+
+1600		2129
+
+3200		4201
+
+
+
+Growing size of listB, A fixed ( append to B)
+
+n 		t ns
+
+100		237
+
+200		133
+
+400		127
+
+800		127
+
+1600		46
+
+3200		97
+
+
+Array append arr 1 growning
+
+n 		t ns
+
+100		1359
+
+200		1498
+
+400		2902
+
+800		4278
+
+1600		8698
+
+3200		17208
+
+
+Array append arr 2 growning
+
+n 		t ns
+
+100		1365
+
+200		2160
+
+400		3187
+
+800		4571
+
+1600		9906
+
+3200		16836
